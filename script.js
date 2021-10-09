@@ -1,3 +1,9 @@
+//CONSOLE APPLICATION FOR FINDING THE ROOTS
+// Ax^2 + Bx + C = 0 
+//USE the function findroot
+// Ax^3 + Bx^2 + Cx + D = 0 
+//USE the function cubicEq
+
 const myroot1= document.querySelector(".demo1");
 const myroot2= document.querySelector(".demo2");
 
